@@ -1,0 +1,8 @@
+.container{
+    background: linear-gradient(to right, lightyellow, blue, gray, orange, green, lightgreen, yellow);
+    color: transparent;
+    -webkit-background-clip: text;
+    box-shadow: 0 0 10px 0.5px rgb(69, 200, 209);
+    width:max-content;
+}
+
